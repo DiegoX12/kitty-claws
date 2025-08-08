@@ -1,6 +1,6 @@
-# _Kitty_'s Claw
+# _Kitty_'s Claws
 
-![images/claw_overview.png](images/claw_overview.png)
+![images/claws_overview.png](images/claws_overview.png)
 
 The website at [https://www.seas.upenn.edu/~ericoc/kitty-claws/](https://www.seas.upenn.edu/~ericoc/kitty-claws/) hosts microscopic images taken of my cats (_Kitty_) claws using the:
 
